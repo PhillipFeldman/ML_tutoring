@@ -1,0 +1,4 @@
+regularization: For generalization
+
+lower model variance, keep learning bias low
+

@@ -1,0 +1,17 @@
+unsupervised overview
+
+Find underlying PDF based on features, find centroids, densities, outliers. clusters
+
+
+learning
+unlabled data, maybe not have ground truth
+normale, baseline, pdf, mix and match with supervised find outliers.
+Need distance metric (from math, d(x,y) >=0, triangle ineq, symmetry, identity.)
+
+
+worked example
+cluster: separation, cohesion, scoring, rand index
+
+
+visualization
+

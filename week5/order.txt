@@ -1,0 +1,23 @@
+Overview
+
+supervised learning - feedback/ground truth-cross function/criteria-math:optimization or approximation- -naiive bayes
+
+========
+supervised learning
+=======================================
+Perceptron visualization
+
+=======================================
+Naive bayes
+
+posterior probability = math
+
+overfit<underfit
+
+======================================
+#4 Decision boundaries of classifiers
+
+
+
+++++=========================
+#5 text classification

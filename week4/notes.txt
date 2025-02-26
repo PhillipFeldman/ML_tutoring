@@ -1,0 +1,35 @@
+generalization of a learning model is the most important property of the model.
+
+
+Model evaluation ::::::::::::::::::::::::::::::::::
+how to evaluate performance
+
+data-->training/testing/(evaluation optional)
+
+SVM requires evaluation--don't train and test to determine gamma parameter because it will bias the model
+
+simplest classifier--> always 0--50% max
+
+1generalability 2false alarm rate
+
+evaluation methods:
+
+train test validate 90% accuracy is good-- small part for testing
+
+k-fold
+
+LOOCV for small datasets
+
+stratification--for unbalanced data test is = from each class
+
+Generalization--SVM
+PCA
+random forest
+"human beings"
+
+:::::::::::::::::::::::::::::::::::::::
+Receiver_operating_Characteristic_Curve
+
+:::::::::::::::::
+
+

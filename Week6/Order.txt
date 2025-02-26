@@ -1,0 +1,12 @@
+Overview
+Weak classifiers with subsets of features limited capability
+majority rule
+aka decision tree > indy classifiers
+EnsembleLearning
+quantity>quality sometimes
+bagging or bootstrap or subset
+reduce overfitting
+
+Decision Trees
+
+Demonstrating the power

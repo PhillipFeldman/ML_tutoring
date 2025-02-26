@@ -1,0 +1,15 @@
+compute numerical values with regression
+
+Linear Regression:
+not classification
+find best line/hyperplane
+
+4 metrics:
+MAE,MSE,MAPE,MPE
+
+Logistic Regression:
+sigmoid function to predict [0,1]
+for probabalistic variable.
+
+Logistic Regression Classifier
+

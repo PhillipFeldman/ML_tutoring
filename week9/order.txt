@@ -1,0 +1,25 @@
+reinforcement learning
+
+ground truth is environment based
+board games/ alphaGo/ tic tac toe/
+q learning
+
+reward/penalty, environment feedback but no dataset
+dynamic data generation guiding feedback
+"life" vs board games.
+stochastic vs deterministic
+agent based 
+
+policy C reward ---
+
+stochastic n arm bandit not optimization
+
+take best action, but is it a local optimum, or global
+
+NIM
+3 players:
+1)Random
+2)Guru
+3)Q Learner
+
+Play games, get results, explore, optimize.
